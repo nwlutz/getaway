@@ -1,0 +1,5 @@
+# pack-refs with: peeled fully-peeled sorted 
+7036ee1cb0c339be4bb7f75a5b8ef8097fb9436e refs/remotes/origin/add-project-archetype
+f46d1e2c3ec58ead0c282951e9247f234e26d5e3 refs/remotes/origin/master
+bd8f61093656f2804c0175b49ae01f70866d8b5a refs/remotes/origin/self-hosting-deps
+1d8e1935def276a36430ee2a35b98e6cb342e080 refs/tags/v1.0

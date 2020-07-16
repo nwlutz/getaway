@@ -1,0 +1,16 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[submodule "themes/ananke"]
+	url = https://github.com/budparr/gohugo-theme-ananke.git
+	active = true
+[submodule "themes/hugo-coder"]
+	url = https://github.com/luizdepra/hugo-coder.git
+	active = true
+[remote "origin"]
+	url = https://github.com/nwlutz/getaway.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
